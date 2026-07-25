@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8580cca68d64104468a3d989b1d43cbc, type: 3}
+  m_Name: Wave
+  m_EditorClassIdentifier: 
+  _waveDataName: Wave
+  _initialDelay: 5
+  _autoStart: 0
+  _difficultyMultiplier: 1
+  _waveSpawnEntries:
+  - _enemyData: {fileID: 11400000, guid: cd8ff42738aeb3b429e20020f9836170, type: 2}
+    _count: 30
+    _spawnPattern: {fileID: 11400000, guid: 8decccb775879204c88e72a240cb66f7, type: 2}
+    _bespokeSpawners: []

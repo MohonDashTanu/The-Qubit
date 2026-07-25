@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47dcb27cb24073748a5c97db1fbea913, type: 3}
+  m_Name: WaveDatabase
+  m_EditorClassIdentifier: 
+  _waveDataBaseName: WaveDatabase
+  _difficultyProfile: {fileID: 11400000, guid: 4eb775c02488d2342a5592c77e3a4b18, type: 2}
+  _waveSequenceEntries:
+  - _waveData: {fileID: 11400000, guid: 5e8c4c671bedc5d449397b6f6840fef7, type: 2}
+  - _waveData: {fileID: 11400000, guid: f994ce764c9e7fe469fc9515e3bc4f99, type: 2}
+  - _waveData: {fileID: 11400000, guid: 2edadbde554a2794fa18fa7a118eb238, type: 2}
+  - _waveData: {fileID: 11400000, guid: 987baee2db86e704c8eea519fb748f92, type: 2}
+  - _waveData: {fileID: 11400000, guid: 855f1a1be8f9bb641a2ce3a5e39416fe, type: 2}
+  _description: 

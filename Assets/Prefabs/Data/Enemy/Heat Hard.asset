@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66d78779f8764f249829f3aa46571a03, type: 3}
+  m_Name: Heat Hard
+  m_EditorClassIdentifier: 
+  enemyName: Heat
+  enemyIcon: {fileID: 8334651344603559088, guid: dde1d1bf91161b2458f31f7d93d6da67, type: 3}
+  enemyPrefab: {fileID: 8953154917608382759, guid: affbf1223c1ee994cb89bfe02b37af55, type: 3}
+  health: 300
+  moveSpeed: 1
+  damageAmount: 10
+  canAttack: 1
+  attackRange: 1.5
+  attackCooldown: 1
+  informationReward: 50
+  minCurrencyDrop: 1
+  maxCurrencyDrop: 2
+  currencyDropChance: 6.5
+  bonusCurrencyDrop: 0
+  guaranteedDrop: 0
+  currencyMultiplier: 1

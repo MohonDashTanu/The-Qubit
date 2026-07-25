@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38d83324ae0233244bafbe55d888424f, type: 3}
+  m_Name: GateInventory
+  m_EditorClassIdentifier: 
+  gates:
+  - gateData: {fileID: 11400000, guid: 64eb6d579dcb1194e8b7d6780157e938, type: 2}
+    ownedQuantity: 3
+    maxPerRun: 3
+    currentLevel: 1
+    unlocked: 1
+    unlockWave: 1
+  - gateData: {fileID: 11400000, guid: 69d098f2e61ea104db8c6b102ae3271c, type: 2}
+    ownedQuantity: 3
+    maxPerRun: 3
+    currentLevel: 1
+    unlocked: 1
+    unlockWave: 1
+  - gateData: {fileID: 11400000, guid: 62edc316b25f3584fb5b077bdccd5ca6, type: 2}
+    ownedQuantity: 3
+    maxPerRun: 3
+    currentLevel: 1
+    unlocked: 1
+    unlockWave: 1
+  - gateData: {fileID: 11400000, guid: 9b4c8b3a4f728ea4094e7b36004d9465, type: 2}
+    ownedQuantity: 3
+    maxPerRun: 3
+    currentLevel: 1
+    unlocked: 1
+    unlockWave: 1
+  resetOnPlay: 0

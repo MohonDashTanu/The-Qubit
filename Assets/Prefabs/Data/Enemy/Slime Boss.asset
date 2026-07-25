@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66d78779f8764f249829f3aa46571a03, type: 3}
+  m_Name: Slime Boss
+  m_EditorClassIdentifier: 
+  enemyName: Slime Boss
+  enemyIcon: {fileID: 7241644841585196438, guid: ec7c39afb7590ae43b7c1be8dd636d75, type: 3}
+  enemyPrefab: {fileID: 8953154917608382759, guid: d1056497e67ca16478ed68bb1a62915f, type: 3}
+  health: 5000
+  moveSpeed: 0.1
+  damageAmount: 100
+  canAttack: 1
+  attackRange: 1.5
+  attackCooldown: 1
+  informationReward: 10
+  minCurrencyDrop: 1
+  maxCurrencyDrop: 500
+  currencyDropChance: 30.7
+  bonusCurrencyDrop: 50
+  guaranteedDrop: 0
+  currencyMultiplier: 1

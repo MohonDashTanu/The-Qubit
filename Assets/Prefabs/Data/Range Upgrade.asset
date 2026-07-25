@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43260d98a9175f143b0b50517f03c84a, type: 3}
+  m_Name: Range Upgrade
+  m_EditorClassIdentifier: 
+  upgradeName: Range
+  description: Increase Range
+  icon: {fileID: -2938974612391848571, guid: ff0d8bef751cb6347867806756ba6122, type: 3}
+  upgradeType: 2
+  maxLevel: 5
+  baseCost: 50
+  costMultiplier: 1.5
+  baseEffectValue: 2
+  effectMultiplier: 1.2

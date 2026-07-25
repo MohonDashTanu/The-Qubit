@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66d78779f8764f249829f3aa46571a03, type: 3}
+  m_Name: Hunter Heat Normal
+  m_EditorClassIdentifier: 
+  enemyName: Heat 2
+  enemyIcon: {fileID: 4801227835787818748, guid: 891f14a51e13e8c4a88bd75f04830a13, type: 3}
+  enemyPrefab: {fileID: 4781601694548903505, guid: f9c3a180b2b6aee42a994f5009936ef0, type: 3}
+  health: 5
+  moveSpeed: 2
+  damageAmount: 5
+  canAttack: 1
+  attackRange: 1.5
+  attackCooldown: 1
+  informationReward: 10
+  minCurrencyDrop: 1
+  maxCurrencyDrop: 1
+  currencyDropChance: 6.5
+  bonusCurrencyDrop: 0
+  guaranteedDrop: 0
+  currencyMultiplier: 1
