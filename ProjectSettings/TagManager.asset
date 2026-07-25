@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - QuantumCore
+  - Qubit
+  - Enemy
+  - PreviewQubit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2810675241
+    locked: 0
+  - name: Object
+    uniqueID: 3581360861
+    locked: 0
+  - name: Foreground
+    uniqueID: 1388621689
+    locked: 0
+  - name: UI
+    uniqueID: 2726124459
+    locked: 0
+  m_RenderingLayers:
+  - Default
